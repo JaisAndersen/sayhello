@@ -1,6 +1,7 @@
 Vue.createApp({
   data() {
     return {
+      name: null,
       message: null,
       age: 29
     }
